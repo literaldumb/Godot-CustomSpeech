@@ -48,7 +48,7 @@ MIT
 
 
 Similar plugings: 
--[GodotVibrate](https://github.com/literaldumb/GodotVibrate)
--[Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText)
--[Godot-TextToSpeech](https://github.com/literaldumb/Godot-TextToSpeech)
+- [GodotVibrate](https://github.com/literaldumb/GodotVibrate)
+- [Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText)
+- [Godot-TextToSpeech](https://github.com/literaldumb/Godot-TextToSpeech)
 
