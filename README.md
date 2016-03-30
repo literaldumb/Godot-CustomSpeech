@@ -1,11 +1,10 @@
 #Godot-CustomSpeech
-- Custom Speech-to-text support on Godot engine for Android, without the Google's default pop-up UI and beeps, similar to [Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText)
+- Custom Speech-to-text support on Godot engine for Android, similar to [Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText), but without the Google's default pop-up UI and beeps.
 
 - Godot version 2.0 stable.
-
 - Copyright [TeamKrishna](http://teamkrishna.in)
-
 - Demonstrates usage of runOnUiThread()
+- Works perfectly on lollipop. Leaves a small beep trace after listening is done on kitkat (#TODO)
 
 ##How to use
 - Drop the customspeech folder inside godot/modules
